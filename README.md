@@ -1,6 +1,8 @@
 # 🐷 小豬公 (PiggyBank)
 
-一個使用 Flutter 開發的跨平台記帳應用程式，支援 iOS、Android、macOS、Windows、Linux 和 Web。
+一個使用 Flutter 開發的跨平台記帳應用程式，現階段僅支援 Android。
+
+> **注意**：iOS、macOS、Windows、Linux 和 Web 版本將在未來陸續支援。
 
 ## 📱 功能特點
 
@@ -18,13 +20,13 @@
 - 密碼鎖定功能
 - 本地資料儲存（SQLite）
 
-### 跨平台支援
-- iOS
-- Android
-- macOS
-- Windows
-- Linux
-- Web
+### 平台支援
+- Android (目前支援)
+- iOS (敬請期待)
+- macOS (敬請期待)
+- Windows (敬請期待)
+- Linux (敬請期待)
+- Web (敬請期待)
 
 ## 🛠 技術架構
 
